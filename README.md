@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bx-xd&label=Profile%20views&color=0e75b6&style=flat" alt="bx-xd" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS and React Native**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Ruby on rails and NextJS**
+- 💬 Ask me about **Javascript, React, NextJS & Ruby on Rails**
 
 - 📫 How to reach me **antoine.brique@gmail.com**
 
